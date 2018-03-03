@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4336d14a3c06be50c3e749fefd26d94f1dcb8e02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f6f9cf041ce5200499fec820d3be6430ae0c9341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/48f05503dae369390562ce2c262cb8b7c705d2b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_18154a3f466739febbdafe7ff00220519eca3ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/de2e4c3d8d794cb23bfc352fc2795af24d7c9ab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_d8a2cec89b0ff65b3574916fe1f9f1376fe5467e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/e668fc8c125dde6e47122334b7707e5860f2432e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_7af5adf87dbc1255fe83ffbda4e55e688e3eece6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/241c3deceb3b97f58809ec531ae56959646931f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c2951a0b0e9868314e3528024f4f01b5e2506883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/9dcf02551c23296e5afc3b09f5570ebf1e9d5892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1f6385b1afc958633e43274826dad82a15031707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3ed4c168aaef22b9029a815ccffe92c3836ffb03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_ac1459368ded1041d5d44c5c562d84cc652421eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c424fd955c2a41ce2a094bb83f81bf87ccc55754/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f94a865e3e590e68c8a2d2fc58b7f1bf1dace402.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/21992e0747f0b495bbbe24ecf61539dd647d7a2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67f90419ab0c956a33432512774e15cd8ab6e27d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/cb9e30ab999a02bcde5551e74c3d6c89caa21b56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ed2dda267a366f17d27be33d492770fa01be86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bb0b36708ef85d8080951f16f2c815114499f493/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_154693075b03f1d605bc2424b0d2a8d292ea3bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/9dcf02551c23296e5afc3b09f5570ebf1e9d5892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1f6385b1afc958633e43274826dad82a15031707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/disklrucache-4.3.1_f7c1e2125d0768864e1f30f9fc6bbc966bec8102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/241c3deceb3b97f58809ec531ae56959646931f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c2951a0b0e9868314e3528024f4f01b5e2506883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3c3f154ea3b5c6aa7956dd76d33eac84e3af2e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2a324d088fa3590ca105fd9db4f811e22dbd129a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_16b43ebe6bedfaea2b305193472ce4331f4e6dfa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/2a5e933b2bb4e8a771f95cf0647508ae39e9a0f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81eda47cfd7c98c6099237e444e7f52260012763/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/48f05503dae369390562ce2c262cb8b7c705d2b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_18154a3f466739febbdafe7ff00220519eca3ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4336d14a3c06be50c3e749fefd26d94f1dcb8e02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f6f9cf041ce5200499fec820d3be6430ae0c9341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/9b10ecbc560cc92fc6301e6185bd30261bc7763e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_a5416be4ff402f7735e247a1fd0935cfd56051e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/7fabb1c83da5f436c135ddc8742848e726122a2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_402f84b23381d5f4bbf3b7b3b21e54ff9e920b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/1e2faee7d46b1ff8305df4bf349300081b05ce2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f9d085a1f991e60e7d943248e4e545021f459eb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/2c4f59bf0291e2e70922118b02114cdf7521a730/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a24cc8411e1820aa28bc51411720673b76cdf09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/1e2faee7d46b1ff8305df4bf349300081b05ce2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9d085a1f991e60e7d943248e4e545021f459eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/af3a16aba04e68351775f53944a497693c756f8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e820d7796ccffaf9ef899039c6da23c16b1d5e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/9b10ecbc560cc92fc6301e6185bd30261bc7763e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_a5416be4ff402f7735e247a1fd0935cfd56051e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/cfde15c2b1f30dd955387ec488f3632871b21b9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04ed978596807845f182425fa8233800c1904c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c424fd955c2a41ce2a094bb83f81bf87ccc55754/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f94a865e3e590e68c8a2d2fc58b7f1bf1dace402.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/3c3f154ea3b5c6aa7956dd76d33eac84e3af2e47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2a324d088fa3590ca105fd9db4f811e22dbd129a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16b43ebe6bedfaea2b305193472ce4331f4e6dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.3.1_72d517e463b294e9f1ccdb35ccd06494e14eeb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/b1f55e6f011049e326c14ca7bc2fad27bd41ed15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9c9b61158a9ec9f2b7cdd28848d3b29e9c04167/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/476798427ff672f40ec67b23a0ec8a433d7b42ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_2eba2a60ee0e5b274f19855b7666b75f64c8051f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3dec22a69ed27a6e4d79c8f55697ef4f7525b66f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_068faa13b5c8e2901fb0b9048bdfdee527ca06f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/aa53b3619359e3b7c85d331d7f4c3e793d89533c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_ad4fa99af7724f0ce12f49075f7d697087141a1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/9dcf02551c23296e5afc3b09f5570ebf1e9d5892/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f6385b1afc958633e43274826dad82a15031707/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3dec22a69ed27a6e4d79c8f55697ef4f7525b66f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_068faa13b5c8e2901fb0b9048bdfdee527ca06f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bd1625bbb7148e78d18831baf16146883f45043f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_0a8e8ca7cba4cd990aab9c9b4d795e81583bacc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/de2e4c3d8d794cb23bfc352fc2795af24d7c9ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8a2cec89b0ff65b3574916fe1f9f1376fe5467e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3e0ef6f67349f30582fbe6b31717bafbe5107068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c0cde758af540b8c1a8576bc8cadc45ce21e691d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/gifdecoder-4.3.1_9f656eef5212375f7aecbd3a2c70808ef32637f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bb0b36708ef85d8080951f16f2c815114499f493/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_154693075b03f1d605bc2424b0d2a8d292ea3bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/disklrucache-4.3.1_f7c1e2125d0768864e1f30f9fc6bbc966bec8102.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/38620f69ec200f84f33616c30313d46f813286a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3ad8669519d36c084cdcda7592e166bb17cd517/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/7fabb1c83da5f436c135ddc8742848e726122a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_402f84b23381d5f4bbf3b7b3b21e54ff9e920b0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/4f18ddcee0fc28a2ace105d698c2f1b5e8a4565c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6fff55943b05ceb88fc0ca68d0d7683bf67f801/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/cfde15c2b1f30dd955387ec488f3632871b21b9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_04ed978596807845f182425fa8233800c1904c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/glide-4.3.1_8e9434a7a19bdf68b21ae551f309fe443c3ed60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_637bfbde0086b37a9989a8986d805cc0b5b11c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2a5e933b2bb4e8a771f95cf0647508ae39e9a0f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_81eda47cfd7c98c6099237e444e7f52260012763.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/bd6659a57e318e4a3fac2a471f7d995e99e4af83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e6d3527a1c0ec0c84309169b9044d89e734c4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/c424fd955c2a41ce2a094bb83f81bf87ccc55754/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f94a865e3e590e68c8a2d2fc58b7f1bf1dace402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/bb0b36708ef85d8080951f16f2c815114499f493/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_154693075b03f1d605bc2424b0d2a8d292ea3bf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2eb6c06a3969ff423db6648ccf843d1e815b2657/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_2fcfb35498c50222b0e1c90c210dc41886d9826c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c665c3f9d72358cbdba14f5cc2b1cdf303ec5ffb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e90e0f424f8ca3843899a59bd736caba018a0c7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/48f05503dae369390562ce2c262cb8b7c705d2b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18154a3f466739febbdafe7ff00220519eca3ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/420390c9ea1294d5001c26270757a081c35f2736/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_be9dbc24a166ff9c88f8c9fc0ad754d6e7915100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2c4f59bf0291e2e70922118b02114cdf7521a730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_6a24cc8411e1820aa28bc51411720673b76cdf09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/aa53b3619359e3b7c85d331d7f4c3e793d89533c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_ad4fa99af7724f0ce12f49075f7d697087141a1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/2b5bb00ef1141ba5c17bddb1e7a25dfa46d59fb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63dd3bc5871031ee5a946b46497bd51a342c15f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/1e2faee7d46b1ff8305df4bf349300081b05ce2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f9d085a1f991e60e7d943248e4e545021f459eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/af3a16aba04e68351775f53944a497693c756f8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_3e820d7796ccffaf9ef899039c6da23c16b1d5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/0fabad05085baa69324deaa1c44cfe913c73a560/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcad7d1ffd2077055c670f0e316a64c65919287b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_d1767eac5565a9f9c06512464c3556221580f14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/b5146ad522dc993eaf91b34b4549d82cffc0226d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_503fad846f11f4eb4b0593a002375a2e829e565d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/3dec22a69ed27a6e4d79c8f55697ef4f7525b66f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_068faa13b5c8e2901fb0b9048bdfdee527ca06f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/756ac8c370be1bddc9af7e91812b88684972e615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b1988957260f5dc2c50ed25be0d7e9a0b90fac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/aa53b3619359e3b7c85d331d7f4c3e793d89533c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad4fa99af7724f0ce12f49075f7d697087141a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/38620f69ec200f84f33616c30313d46f813286a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e3ad8669519d36c084cdcda7592e166bb17cd517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/ad7bb25eebba73d988154c78db27b5d3436ff3c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_8d22588df724b963177ca307b8c00e7d45125294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c12401208a0e099aab13867ca11228c6b680321e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f5c723aeb57bee6347695271385207ee6926b930.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/4b6afd229d4da29b76d5e8426940cf1ffc3626f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36055a3f06c34f9f97b2d54a5e3d5412b6433085/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/04949d8f53c0a279fc28b82bf819afd9a4cd8c26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_69f3430065aa44380bf0832c3362e73a3402e497.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.2_637bfbde0086b37a9989a8986d805cc0b5b11c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/bd1625bbb7148e78d18831baf16146883f45043f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a8e8ca7cba4cd990aab9c9b4d795e81583bacc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/de2e4c3d8d794cb23bfc352fc2795af24d7c9ab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_d8a2cec89b0ff65b3574916fe1f9f1376fe5467e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/annotations-4.3.1_72d517e463b294e9f1ccdb35ccd06494e14eeb91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/common-1.0.3_c19735245728c87cf08fc66843bbcb9ee53b8083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/b1f55e6f011049e326c14ca7bc2fad27bd41ed15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f9c9b61158a9ec9f2b7cdd28848d3b29e9c04167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/cb9e30ab999a02bcde5551e74c3d6c89caa21b56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_5ed2dda267a366f17d27be33d492770fa01be86b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/71c973d13c1e422aab0ae7aa960c7f7031a2eb02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_be656768af9bb72b054bb125aa6fd0a60b186a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/21992e0747f0b495bbbe24ecf61539dd647d7a2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_67f90419ab0c956a33432512774e15cd8ab6e27d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.3.1_9f656eef5212375f7aecbd3a2c70808ef32637f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/446e938f82b92cf8c32d15c168ba686fb3f71cc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7881e330890c57179d3a3935e8e9e8479433f4e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/2eb6c06a3969ff423db6648ccf843d1e815b2657/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fcfb35498c50222b0e1c90c210dc41886d9826c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/12a3fdc07d65cf6b3be57978936e31e520c0010d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ed657e173155f9afa939a211741e0d7e874c9a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/0fabad05085baa69324deaa1c44cfe913c73a560/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcad7d1ffd2077055c670f0e316a64c65919287b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1767eac5565a9f9c06512464c3556221580f14d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2b5bb00ef1141ba5c17bddb1e7a25dfa46d59fb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_63dd3bc5871031ee5a946b46497bd51a342c15f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/ab71f48801e65a6b488819a62a4224ab05eda759/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_314f2017ef78e57b59c321ad56c1099725547ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4f18ddcee0fc28a2ace105d698c2f1b5e8a4565c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f6fff55943b05ceb88fc0ca68d0d7683bf67f801.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/04949d8f53c0a279fc28b82bf819afd9a4cd8c26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69f3430065aa44380bf0832c3362e73a3402e497/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/eeb5f2243b9af5b8010396bb4bb8998e961c04f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e55e1d0f62aa955c69cdca2395ef71b1ce4e5d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/1b8d2405fe27604c4147921428347656e6bde6a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c8cc6614fac5f15de8c077e746e38da16173172f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/31f000f457e9f9cf5e9dc5881d6577c772a26ee5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_9f50a4a0d279ca7a48b7ceb168cc63362749a16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bd6659a57e318e4a3fac2a471f7d995e99e4af83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1e6d3527a1c0ec0c84309169b9044d89e734c4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2b5bb00ef1141ba5c17bddb1e7a25dfa46d59fb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_63dd3bc5871031ee5a946b46497bd51a342c15f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4f18ddcee0fc28a2ace105d698c2f1b5e8a4565c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f6fff55943b05ceb88fc0ca68d0d7683bf67f801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4b6afd229d4da29b76d5e8426940cf1ffc3626f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_36055a3f06c34f9f97b2d54a5e3d5412b6433085.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c025756dbb4de7d689db367c77352bcd055664a8">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_294d853be4836bc62cd1ce44af39fdc2eb9ff4d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/420390c9ea1294d5001c26270757a081c35f2736/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be9dbc24a166ff9c88f8c9fc0ad754d6e7915100/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bd6659a57e318e4a3fac2a471f7d995e99e4af83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1e6d3527a1c0ec0c84309169b9044d89e734c4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/8c7d17aa5288cc6a6ce92f77d169b3d37fc4d6d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_b3d73ca71fac854e4bc4d0c5b78b016c8fdf9b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/1b8d2405fe27604c4147921428347656e6bde6a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c8cc6614fac5f15de8c077e746e38da16173172f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/31f000f457e9f9cf5e9dc5881d6577c772a26ee5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_9f50a4a0d279ca7a48b7ceb168cc63362749a16b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/c665c3f9d72358cbdba14f5cc2b1cdf303ec5ffb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e90e0f424f8ca3843899a59bd736caba018a0c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c12401208a0e099aab13867ca11228c6b680321e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f5c723aeb57bee6347695271385207ee6926b930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/ab71f48801e65a6b488819a62a4224ab05eda759/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_314f2017ef78e57b59c321ad56c1099725547ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/4b6afd229d4da29b76d5e8426940cf1ffc3626f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_36055a3f06c34f9f97b2d54a5e3d5412b6433085.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/b5146ad522dc993eaf91b34b4549d82cffc0226d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_503fad846f11f4eb4b0593a002375a2e829e565d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/common-1.0.0_908c7e00466e064a0a0d1aa6a3d7941a55a18bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/446e938f82b92cf8c32d15c168ba686fb3f71cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_7881e330890c57179d3a3935e8e9e8479433f4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/756ac8c370be1bddc9af7e91812b88684972e615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1b1988957260f5dc2c50ed25be0d7e9a0b90fac6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/c12401208a0e099aab13867ca11228c6b680321e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5c723aeb57bee6347695271385207ee6926b930/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/common-1.0.0_908c7e00466e064a0a0d1aa6a3d7941a55a18bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/756ac8c370be1bddc9af7e91812b88684972e615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1b1988957260f5dc2c50ed25be0d7e9a0b90fac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/gifdecoder-4.3.1_9f656eef5212375f7aecbd3a2c70808ef32637f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_c19735245728c87cf08fc66843bbcb9ee53b8083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.3.1_8e9434a7a19bdf68b21ae551f309fe443c3ed60e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/eeb5f2243b9af5b8010396bb4bb8998e961c04f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e55e1d0f62aa955c69cdca2395ef71b1ce4e5d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/12a3fdc07d65cf6b3be57978936e31e520c0010d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1ed657e173155f9afa939a211741e0d7e874c9a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/446e938f82b92cf8c32d15c168ba686fb3f71cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_7881e330890c57179d3a3935e8e9e8479433f4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/bd1625bbb7148e78d18831baf16146883f45043f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_0a8e8ca7cba4cd990aab9c9b4d795e81583bacc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/c665c3f9d72358cbdba14f5cc2b1cdf303ec5ffb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e90e0f424f8ca3843899a59bd736caba018a0c7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/3ed4c168aaef22b9029a815ccffe92c3836ffb03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1459368ded1041d5d44c5c562d84cc652421eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/04949d8f53c0a279fc28b82bf819afd9a4cd8c26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_69f3430065aa44380bf0832c3362e73a3402e497.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/ab71f48801e65a6b488819a62a4224ab05eda759/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_314f2017ef78e57b59c321ad56c1099725547ce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/12a3fdc07d65cf6b3be57978936e31e520c0010d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_1ed657e173155f9afa939a211741e0d7e874c9a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/4336d14a3c06be50c3e749fefd26d94f1dcb8e02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6f9cf041ce5200499fec820d3be6430ae0c9341/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/af3a16aba04e68351775f53944a497693c756f8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_3e820d7796ccffaf9ef899039c6da23c16b1d5e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/e668fc8c125dde6e47122334b7707e5860f2432e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7af5adf87dbc1255fe83ffbda4e55e688e3eece6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/0fabad05085baa69324deaa1c44cfe913c73a560/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcad7d1ffd2077055c670f0e316a64c65919287b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_d1767eac5565a9f9c06512464c3556221580f14d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/71c973d13c1e422aab0ae7aa960c7f7031a2eb02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be656768af9bb72b054bb125aa6fd0a60b186a9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/eeb5f2243b9af5b8010396bb4bb8998e961c04f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e55e1d0f62aa955c69cdca2395ef71b1ce4e5d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/420390c9ea1294d5001c26270757a081c35f2736/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_be9dbc24a166ff9c88f8c9fc0ad754d6e7915100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_637bfbde0086b37a9989a8986d805cc0b5b11c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/21992e0747f0b495bbbe24ecf61539dd647d7a2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_67f90419ab0c956a33432512774e15cd8ab6e27d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f11eea75a88e48646c9d4b8b75acfc2339a70ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2eb6c06a3969ff423db6648ccf843d1e815b2657/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_2fcfb35498c50222b0e1c90c210dc41886d9826c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3e0ef6f67349f30582fbe6b31717bafbe5107068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_c0cde758af540b8c1a8576bc8cadc45ce21e691d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/glide-4.3.1_8e9434a7a19bdf68b21ae551f309fe443c3ed60e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/31f000f457e9f9cf5e9dc5881d6577c772a26ee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f50a4a0d279ca7a48b7ceb168cc63362749a16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/cb9e30ab999a02bcde5551e74c3d6c89caa21b56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_5ed2dda267a366f17d27be33d492770fa01be86b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/ad7bb25eebba73d988154c78db27b5d3436ff3c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d22588df724b963177ca307b8c00e7d45125294/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/b5146ad522dc993eaf91b34b4549d82cffc0226d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_503fad846f11f4eb4b0593a002375a2e829e565d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/8c7d17aa5288cc6a6ce92f77d169b3d37fc4d6d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3d73ca71fac854e4bc4d0c5b78b016c8fdf9b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/476798427ff672f40ec67b23a0ec8a433d7b42ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_2eba2a60ee0e5b274f19855b7666b75f64c8051f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/7fabb1c83da5f436c135ddc8742848e726122a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_402f84b23381d5f4bbf3b7b3b21e54ff9e920b0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/241c3deceb3b97f58809ec531ae56959646931f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2951a0b0e9868314e3528024f4f01b5e2506883/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2c4f59bf0291e2e70922118b02114cdf7521a730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_6a24cc8411e1820aa28bc51411720673b76cdf09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/9b10ecbc560cc92fc6301e6185bd30261bc7763e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5416be4ff402f7735e247a1fd0935cfd56051e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/2a5e933b2bb4e8a771f95cf0647508ae39e9a0f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_81eda47cfd7c98c6099237e444e7f52260012763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/cfde15c2b1f30dd955387ec488f3632871b21b9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_04ed978596807845f182425fa8233800c1904c84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/1b8d2405fe27604c4147921428347656e6bde6a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8cc6614fac5f15de8c077e746e38da16173172f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3c3f154ea3b5c6aa7956dd76d33eac84e3af2e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2a324d088fa3590ca105fd9db4f811e22dbd129a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_16b43ebe6bedfaea2b305193472ce4331f4e6dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/ad7bb25eebba73d988154c78db27b5d3436ff3c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_8d22588df724b963177ca307b8c00e7d45125294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/annotations-4.3.1_72d517e463b294e9f1ccdb35ccd06494e14eeb91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/476798427ff672f40ec67b23a0ec8a433d7b42ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2eba2a60ee0e5b274f19855b7666b75f64c8051f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/8c7d17aa5288cc6a6ce92f77d169b3d37fc4d6d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_b3d73ca71fac854e4bc4d0c5b78b016c8fdf9b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/b1f55e6f011049e326c14ca7bc2fad27bd41ed15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_f9c9b61158a9ec9f2b7cdd28848d3b29e9c04167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/3ed4c168aaef22b9029a815ccffe92c3836ffb03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_ac1459368ded1041d5d44c5c562d84cc652421eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.android/build-cache/3e0ef6f67349f30582fbe6b31717bafbe5107068/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0cde758af540b8c1a8576bc8cadc45ce21e691d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/e668fc8c125dde6e47122334b7707e5860f2432e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_7af5adf87dbc1255fe83ffbda4e55e688e3eece6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/71c973d13c1e422aab0ae7aa960c7f7031a2eb02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_be656768af9bb72b054bb125aa6fd0a60b186a9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_908c7e00466e064a0a0d1aa6a3d7941a55a18bcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.android/build-cache/38620f69ec200f84f33616c30313d46f813286a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/classes_e3ad8669519d36c084cdcda7592e166bb17cd517.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.3.1_f7c1e2125d0768864e1f30f9fc6bbc966bec8102/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aislingwalsh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/aislingwalsh/Documents/GitHub/friendlychat-android/android-start/app/build/intermediates/pre-dexed/debug/common-1.0.3_c19735245728c87cf08fc66843bbcb9ee53b8083.jar" />
+    </item>
+
+</items>
